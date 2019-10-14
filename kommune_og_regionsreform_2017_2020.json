@@ -374,7 +374,7 @@
         "fra": "0616",
         "dato": "2020-01-01",
         "gammeltNavn": "Nes",
-        "nyttNavn": "Nes",
+        "nyttNavn": "Nesbyen",
         "til": "3040"
       },
       {
@@ -1324,7 +1324,7 @@
     ]
   },
   {
-    "fylke": "Vestlandet",
+    "fylke": "Vestland",
     "fylkesnummer": "46",
     "dato": "2020-01-01",
     "gamleFylker": [
@@ -2156,14 +2156,14 @@
         "fra": "5018",
         "dato": "2020-01-01",
         "gammeltNavn": "Åfjord",
-        "nyttNavn": "Bjørnør",
+        "nyttNavn": "Åfjord",
         "til": "5058"
       },
       {
         "fra": "5019",
         "dato": "2020-01-01",
         "gammeltNavn": "Roan",
-        "nyttNavn": "Bjørnør",
+        "nyttNavn": "Åfjord",
         "til": "5058"
       },
       {
@@ -2233,14 +2233,14 @@
         "fra": "5050",
         "dato": "2020-01-01",
         "gammeltNavn": "Vikna",
-        "nyttNavn": "Ytre Namdal",
+        "nyttNavn": "Nærøysund",
         "til": "5060"
       },
       {
         "fra": "5051",
         "dato": "2020-01-01",
         "gammeltNavn": "Nærøy",
-        "nyttNavn": "Ytre Namdal",
+        "nyttNavn": "Nærøysund",
         "til": "5060"
       },
       {
